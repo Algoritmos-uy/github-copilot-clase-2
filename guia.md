@@ -15,4 +15,5 @@ Un prompt es la instrucción que damos a GitHub Copilot para que nos ayude a gen
 ## Ejemplo
 
 ❌ Mal prompt: "haz una función"
+
 ✅ Buen prompt: "Crea una función en JavaScript que reciba un array de números y devuelva el promedio."
